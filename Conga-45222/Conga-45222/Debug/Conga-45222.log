@@ -1,0 +1,9 @@
+﻿  Menu.cpp
+d:\visual studio - projects\conga-45222\conga-45222\dancerslist.h(406): warning C4101: 'e': unreferenced local variable
+  d:\visual studio - projects\conga-45222\conga-45222\dancerslist.h(380): note: while compiling class template member function 'void DancersList<Student>::copyDancersChain(DancersList<Student>::Box *,DancersList<Student>::Box *&,DancersList<Student>::Box *&)'
+  d:\visual studio - projects\conga-45222\conga-45222\dancerslist.h(147): note: see reference to function template instantiation 'void DancersList<Student>::copyDancersChain(DancersList<Student>::Box *,DancersList<Student>::Box *&,DancersList<Student>::Box *&)' being compiled
+  d:\visual studio - projects\conga-45222\conga-45222\menu.cpp(36): note: see reference to class template instantiation 'DancersList<Student>' being compiled
+  main.cpp
+  Generating Code...
+d:\visual studio - projects\conga-45222\conga-45222\dancerslist.h(282): warning C4715: 'DancersList<Student>::removeStudent': not all control paths return a value
+  Conga-45222.vcxproj -> D:\Visual Studio - projects\Conga-45222\Debug\Conga-45222.exe
